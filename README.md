@@ -9,3 +9,6 @@ await client.get_agents()
 
 # Documentation
 [Click Here](https://shinobou.github.io/aiovalorant/)
+
+# Contribute
+Please make a PR into the dev branch
