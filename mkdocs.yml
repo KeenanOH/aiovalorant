@@ -16,6 +16,9 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 
+repo_name: Shinobou/aiovalorant
+repo_url: https://github.com/Shinobou/aiovalorant
+
 plugins:
 - search
 - mkdocstrings:
