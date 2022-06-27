@@ -1,0 +1,1 @@
+::: aiovalorant.competitive_tiers
