@@ -1,6 +1,11 @@
 # aiovalorant
 An async wrapper for Valorant API.
 
+# Installation
+```
+pip install aiovalorant
+```
+
 # Usage
 ```py
 client: aiovalorant.Client = aiovalorant.Client()
