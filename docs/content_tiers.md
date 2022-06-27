@@ -1,1 +1,0 @@
-::: aiovalorant.content_tiers
